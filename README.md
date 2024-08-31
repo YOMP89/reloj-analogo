@@ -1,6 +1,6 @@
 # Reloj Analogo 
 
-**Reloj analogo ** es un proyecto que representa un reloj analógico simple utilizando HTML, SCSS y JavaScript. Este reloj muestra las horas, minutos y segundos de manera dinámica, con un diseño limpio y moderno.
+**Reloj analogo** es un proyecto que representa un reloj analógico simple utilizando HTML, SCSS y JavaScript. Este reloj muestra las horas, minutos y segundos de manera dinámica, con un diseño limpio y moderno.
 
 ## Descripción
 
